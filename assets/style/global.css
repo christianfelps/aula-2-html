@@ -1,0 +1,14 @@
+*{
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: inherit;
+}
+body{
+    background-color: #cbcbcb;
+}
+nav, footer{
+    background-color: #441f87;
+
+}
